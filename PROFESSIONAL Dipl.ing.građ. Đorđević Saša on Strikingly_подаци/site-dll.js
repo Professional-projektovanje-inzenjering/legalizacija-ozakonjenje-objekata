@@ -1,5 +1,5 @@
 /*! no_rails_asset_compression */
-this.STRIKINGLY_RELEASE_TAG||(this.STRIKINGLY_RELEASE_TAG="HFrelease-20200611-0302.3")
+this.STRIKINGLY_RELEASE_TAG||(this.STRIKINGLY_RELEASE_TAG="HFrelease-20200609-0302.3")
 this._babelPolyfill||function e(n,t,r){function o(a,s){if(!t[a]){if(!n[a]){var u="function"==typeof require&&require
 if(!s&&u)return u(a,!0)
 if(i)return i(a,!0)
